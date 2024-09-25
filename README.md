@@ -4,4 +4,4 @@
 
 Доц. [Сидоренка В. М.](https://www.linkedin.com/in/valeriy-sydorenko-6782279a/)
 
-$E = m \dot c^2$
+$E = m \cdot c^2$
